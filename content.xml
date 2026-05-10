@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510134727BK0AJY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605101347270V84IH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Problemas ambientales del siglo XXI: Los impactos del ser humano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Arturo Gálvez Gonzáles </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje está pensada para trabajar con el alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778409987760</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>b9fb4963-6934-42e8-bd52-1dbb83cc20e8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>b9fb4963-6934-42e8-bd52-1dbb83cc20e8</odePageId>
+      <odeBlockId>block-1778325896517-t6p7acpk2</odeBlockId>
+      <blockName>Situación de aprendizaje: Problemas
+ambientales del siglo XXI: Los impactos del ser humano</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>b9fb4963-6934-42e8-bd52-1dbb83cc20e8</odePageId>
+          <odeBlockId>block-1778325896517-t6p7acpk2</odeBlockId>
+          <odeIdeviceId>idevice-1778325896505-rviy9whq5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Esta situación de aprendizaje está pensada para trabajar con el alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.. A través de ella, el alumnado desarrollará capacidades para identificar y analizar riesgos naturales relacionados con factores humanos, geológicos y socioeconómicos, especialmente los más relevantes en Andalucía. Asimismo, trabajará la resolución de cuestiones de Biología y Geología mediante la búsqueda, selección y análisis crítico de información procedente de diversas fuentes, valorando su fiabilidad y utilizando una correcta citación. Además, reflexionará sobre el impacto de las acciones humanas en el medioambiente y la salud, fomentando actitudes responsables y hábitos sostenibles y saludables.</strong><br /></p>
+<p><strong>Medio ambiente y sostenibilidad</strong></p>
+<p>A lo largo de la historia de la humanidad se ha producido un progresivo deterioro del medio ambiente. Comprender las causas y consecuencias de este proceso resulta fundamental para poder paliar y prevenir sus efectos en el futuro, promoviendo un modelo de desarrollo más equilibrado y sostenible.</p>
+<p>Esta situación de aprendizaje se centra en el análisis de los impactos ambientales derivados de las actividades humanas, con especial atención al contexto andaluz. Para ello, se trabajan los siguientes saberes básicos:</p>
+<p>BYG.4.F.1: Impactos ambientales de las actividades humanas (atmósfera, hidrosfera y suelo) y principales problemas ambientales de Andalucía.<br />BYG.4.F.2: Gestión de residuos, reutilización y reciclaje.<br />BYG.4.F.3: Consumo responsable.</p>
+<p><strong>Nivel al que va dirigido</strong></p>
+<p>Alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.</p>
+<p><br /><strong>Temporalización aproximada</strong></p>
+<p>8 sesiones</p>
+<p><br /><strong>Materia o materias implicadas</strong></p>
+<p>Biología y Geología (principal)<br />Física y Química<br />Digitalización</p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>
+<p>A lo largo de esta situación de aprendizaje, el alumnado desarrollará las siguientes capacidades:</p>
+<p>Identificar riesgos naturales asociados a factores humanos, geológicos y socioeconómicos, reconociendo especialmente los más relevantes en Andalucía. (STEM)<br />Resolver cuestiones y profundizar en contenidos de Biología y Geología, mediante la selección, análisis crítico y uso adecuado de información procedente de diversas fuentes, incluyendo su correcta citación. (STEM)<br />Localizar, seleccionar y organizar información, contrastando su veracidad para dar respuesta a problemas científicos planteados.<br />Analizar los impactos de las acciones humanas sobre el medioambiente y la salud, valorando sus consecuencias y promoviendo hábitos sostenibles y saludables.</p>
+<p><strong>Justificación de la actividad y proceso de mejora</strong></p>
+<p>Una de las actividades clave de esta situación de aprendizaje es el juego de rol, previamente diseñado y analizado. Esta metodología permite abordar problemas ambientales complejos desde un enfoque activo y competencial, situando al alumnado en el centro del proceso de aprendizaje. A través de ella, el alumnado debe analizar, argumentar y tomar decisiones desde distintas perspectivas.</p>
+<p>El caso contextualizado en el entorno del Parque Nacional de Doñana favorece un aprendizaje significativo al conectar los contenidos con una problemática real y cercana.</p>
+<p>Asimismo, esta metodología:</p>
+<p>Fomenta el pensamiento crítico y la argumentación.<br />Desarrolla la empatía mediante la asunción de diferentes roles.<br />Incrementa la motivación y la participación activa.<br />En cuanto al proceso de mejora, a través de la rutina de pensamiento aplicada se han identificado aspectos susceptibles de optimización, como la necesidad de definir con mayor precisión los roles y orientar la actividad hacia la búsqueda de soluciones.</p>
+<p>Como resultado, se plantea una propuesta más estructurada, activa y significativa, que favorece un aprendizaje profundo, competencial y transferible a contextos reales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778325896505-rviy9whq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Esta situación de aprendizaje está pensada para trabajar con el alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.. A través de ella, el alumnado desarrollará capacidades para identificar y analizar riesgos naturales relacionados con factores humanos, geológicos y socioeconómicos, especialmente los más relevantes en Andalucía. Asimismo, trabajará la resolución de cuestiones de Biología y Geología mediante la búsqueda, selección y análisis crítico de información procedente de diversas fuentes, valorando su fiabilidad y utilizando una correcta citación. Además, reflexionará sobre el impacto de las acciones humanas en el medioambiente y la salud, fomentando actitudes responsables y hábitos sostenibles y saludables.</strong><br /></p>\n<p><strong>Medio ambiente y sostenibilidad</strong></p>\n<p>A lo largo de la historia de la humanidad se ha producido un progresivo deterioro del medio ambiente. Comprender las causas y consecuencias de este proceso resulta fundamental para poder paliar y prevenir sus efectos en el futuro, promoviendo un modelo de desarrollo más equilibrado y sostenible.</p>\n<p>Esta situación de aprendizaje se centra en el análisis de los impactos ambientales derivados de las actividades humanas, con especial atención al contexto andaluz. Para ello, se trabajan los siguientes saberes básicos:</p>\n<p>BYG.4.F.1: Impactos ambientales de las actividades humanas (atmósfera, hidrosfera y suelo) y principales problemas ambientales de Andalucía.<br />BYG.4.F.2: Gestión de residuos, reutilización y reciclaje.<br />BYG.4.F.3: Consumo responsable.</p>\n<p><strong>Nivel al que va dirigido</strong></p>\n<p>Alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.</p>\n<p><br /><strong>Temporalización aproximada</strong></p>\n<p>8 sesiones</p>\n<p><br /><strong>Materia o materias implicadas</strong></p>\n<p>Biología y Geología (principal)<br />Física y Química<br />Digitalización</p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</strong></p>\n<p>A lo largo de esta situación de aprendizaje, el alumnado desarrollará las siguientes capacidades:</p>\n<p>Identificar riesgos naturales asociados a factores humanos, geológicos y socioeconómicos, reconociendo especialmente los más relevantes en Andalucía. (STEM)<br />Resolver cuestiones y profundizar en contenidos de Biología y Geología, mediante la selección, análisis crítico y uso adecuado de información procedente de diversas fuentes, incluyendo su correcta citación. (STEM)<br />Localizar, seleccionar y organizar información, contrastando su veracidad para dar respuesta a problemas científicos planteados.<br />Analizar los impactos de las acciones humanas sobre el medioambiente y la salud, valorando sus consecuencias y promoviendo hábitos sostenibles y saludables.</p>\n<p><strong>Justificación de la actividad y proceso de mejora</strong></p>\n<p>Una de las actividades clave de esta situación de aprendizaje es el juego de rol, previamente diseñado y analizado. Esta metodología permite abordar problemas ambientales complejos desde un enfoque activo y competencial, situando al alumnado en el centro del proceso de aprendizaje. A través de ella, el alumnado debe analizar, argumentar y tomar decisiones desde distintas perspectivas.</p>\n<p>El caso contextualizado en el entorno del Parque Nacional de Doñana favorece un aprendizaje significativo al conectar los contenidos con una problemática real y cercana.</p>\n<p>Asimismo, esta metodología:</p>\n<p>Fomenta el pensamiento crítico y la argumentación.<br />Desarrolla la empatía mediante la asunción de diferentes roles.<br />Incrementa la motivación y la participación activa.<br />En cuanto al proceso de mejora, a través de la rutina de pensamiento aplicada se han identificado aspectos susceptibles de optimización, como la necesidad de definir con mayor precisión los roles y orientar la actividad hacia la búsqueda de soluciones.</p>\n<p>Como resultado, se plantea una propuesta más estructurada, activa y significativa, que favorece un aprendizaje profundo, competencial y transferible a contextos reales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778326309188-332tuhh1y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778326309188-332tuhh1y</odePageId>
+      <odeBlockId>block-1778326321934-qqng6yp9z</odeBlockId>
+      <blockName>Información importante sobre el uso de herramientas digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778326309188-332tuhh1y</odePageId>
+          <odeBlockId>block-1778326321934-qqng6yp9z</odeBlockId>
+          <odeIdeviceId>idevice-1778326321929-dnmm9f775</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778326321929-dnmm9f775" title="" href="{{context_path}}/content/resources/Cartel educativo de retrato de bienestar y alfabetización digital ilustrativo verde naranja amarillo.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Cartel educativo de retrato de bienestar y alfabetización digital ilustrativo verde naranja amarillo.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326321929-dnmm9f775","img_0":{"img":"{{context_path}}/content/resources/Cartel educativo de retrato de bienestar y alfabetización digital ilustrativo verde naranja amarillo.png","thumbnail":"{{context_path}}/content/resources/Cartel educativo de retrato de bienestar y alfabetización digital ilustrativo verde naranja amarillo.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778327403887-dp7p9estw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal actividades y tareas del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778327403887-dp7p9estw</odePageId>
+      <odeBlockId>block-1778327416572-ngvcg94lb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327403887-dp7p9estw</odePageId>
+          <odeBlockId>block-1778327416572-ngvcg94lb</odeBlockId>
+          <odeIdeviceId>idevice-1778327416569-kf36upfrz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/arturosek96/problemas-ambientales-del-siglo-xxi-los-impactos-del-ser-hum-5ft93xf1dldkujrr" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778327034697-i0bfyqmyf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas y contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas y contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778327034697-i0bfyqmyf</odePageId>
+      <odeBlockId>block-1778327048003-dkip8ojgy</odeBlockId>
+      <blockName>Contenidos que utilizaremos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327034697-i0bfyqmyf</odePageId>
+          <odeBlockId>block-1778327048003-dkip8ojgy</odeBlockId>
+          <odeIdeviceId>idevice-1778327048001-bzrt3079b</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/arturosek96/problemas-ambientales-del-siglo-xxi-los-impactos-del-ser-hum-mnpre9qaepctaamw" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778327034697-i0bfyqmyf</odePageId>
+      <odeBlockId>block-1778409045414-mzkmssbpn</odeBlockId>
+      <blockName>Herramientas para el o la docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327034697-i0bfyqmyf</odePageId>
+          <odeBlockId>block-1778409045414-mzkmssbpn</odeBlockId>
+          <odeIdeviceId>idevice-1778409045411-5nlqgskmd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlace a la plataforma Symbaloo. Donde es posible acceder a todas las herramientas utiles para la docencia y en especial para esta SdeA para el profesorado: <a href="https://www.symbaloo.com/shared/AAAAA_mz0CsAA41_W3RfsA==" target="_blank" rel="noopener" title="">Tablero: Biología y Geología </a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778409045411-5nlqgskmd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlace a la plataforma Symbaloo. Donde es posible acceder a todas las herramientas utiles para la docencia y en especial para esta SdeA para el profesorado: <a href=\"https://www.symbaloo.com/shared/AAAAA_mz0CsAA41_W3RfsA==\" target=\"_blank\" rel=\"noopener\" title=\"\">Tablero: Biología y Geología </a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778407240628-ft5by0jol</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778407240628-ft5by0jol</odePageId>
+      <odeBlockId>block-1778407326995-rh60nqf4n</odeBlockId>
+      <blockName>En este apartado se describen las tareas y actividades diseñadas para esta SdeA y se relacionan, cada una de ellas, con el criterio de evaluación correspondiente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778407240628-ft5by0jol</odePageId>
+          <odeBlockId>block-1778407326995-rh60nqf4n</odeBlockId>
+          <odeIdeviceId>idevice-1778407326991-wkxrodyl6</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1hzB0bXRLIH1gdtgJrTeCu7Mkbl0uWY5E6GeQJR-xMjo/edit?usp=sharing" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778409672229-d9yxyoke6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778409672229-d9yxyoke6</odePageId>
+      <odeBlockId>block-1778409680125-eag21lfq9</odeBlockId>
+      <blockName>Detalles sobre las principales actividades a realizar. Su contenido y evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778409672229-d9yxyoke6</odePageId>
+          <odeBlockId>block-1778409680125-eag21lfq9</odeBlockId>
+          <odeIdeviceId>idevice-1778409680121-y1y2e9u01</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1p-rkfK7TFmgvAv77M-OYFxcdREV_5oibMtNxgEBT03Y/edit?usp=sharing" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778326538100-4a1tb1zge</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778326538100-4a1tb1zge</odePageId>
+      <odeBlockId>block-1778326648625-rs2v4luoj</odeBlockId>
+      <blockName>Infografía como proyecto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778326538100-4a1tb1zge</odePageId>
+          <odeBlockId>block-1778326648625-rs2v4luoj</odeBlockId>
+          <odeIdeviceId>idevice-1778326648621-bng1lwrkk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el marco de la SdA <strong>“Problemas ambientales del siglo XXI: Los impactos del ser humano” </strong>(4º ESO, Biología y Geología), se propone el uso de Canva como herramienta digital para el desarrollo del producto final.</p>
+<p>El objetivo es que el alumnado diseñe una campaña digital de sensibilización ambiental (infografías, carteles o presentaciones) centrada en los impactos de las actividades humanas en Andalucía y la promoción de hábitos sostenibles, en coherencia con los saberes básicos BYG.4.F.1, BYG.4.F.2 y BYG.4.F.3.</p>
+<p>La elección de Canva se justifica por:</p>
+<p>Adecuación a la SdA: permite trasladar el análisis de impactos ambientales trabajado en clase a un producto final aplicado, comunicativo y significativo.<br />Versatilidad: facilita la creación de distintos formatos visuales (infografías, presentaciones), adaptándose a diferentes necesidades.<br />Accesibilidad y contexto: herramienta gratuita, online y disponible en el centro, sin necesidad de instalación.<br />Nivel del alumnado: su uso es intuitivo para 4º ESO, ajustándose a su competencia digital.<br />Desarrollo competencial: contribuye a la competencia digital (CD), comunicación lingüística (CCL) y competencia STEM, al implicar búsqueda y selección rigurosa de información científica.<br />Inclusión: permite adaptar el diseño visual para facilitar la comprensión de todo el alumnado.<br />De este modo, la herramienta se integra de forma coherente en la SdA, favoreciendo un aprendizaje significativo y transferible.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326648621-bng1lwrkk","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Actividad individual ","textTextarea":"<p>En el marco de la SdA <strong>“Problemas ambientales del siglo XXI: Los impactos del ser humano” </strong>(4º ESO, Biología y Geología), se propone el uso de Canva como herramienta digital para el desarrollo del producto final.</p>\n<p>El objetivo es que el alumnado diseñe una campaña digital de sensibilización ambiental (infografías, carteles o presentaciones) centrada en los impactos de las actividades humanas en Andalucía y la promoción de hábitos sostenibles, en coherencia con los saberes básicos BYG.4.F.1, BYG.4.F.2 y BYG.4.F.3.</p>\n<p>La elección de Canva se justifica por:</p>\n<p>Adecuación a la SdA: permite trasladar el análisis de impactos ambientales trabajado en clase a un producto final aplicado, comunicativo y significativo.<br />Versatilidad: facilita la creación de distintos formatos visuales (infografías, presentaciones), adaptándose a diferentes necesidades.<br />Accesibilidad y contexto: herramienta gratuita, online y disponible en el centro, sin necesidad de instalación.<br />Nivel del alumnado: su uso es intuitivo para 4º ESO, ajustándose a su competencia digital.<br />Desarrollo competencial: contribuye a la competencia digital (CD), comunicación lingüística (CCL) y competencia STEM, al implicar búsqueda y selección rigurosa de información científica.<br />Inclusión: permite adaptar el diseño visual para facilitar la comprensión de todo el alumnado.<br />De este modo, la herramienta se integra de forma coherente en la SdA, favoreciendo un aprendizaje significativo y transferible.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778326844839-0mhoqd9oi</odePageId>
+  <odeParentPageId>page-1778326538100-4a1tb1zge</odeParentPageId>
+  <pageName>Rubrica proyecto final </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rubrica proyecto final </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778326844839-0mhoqd9oi</odePageId>
+      <odeBlockId>block-1778404845096-z94j9cdsq</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778326844839-0mhoqd9oi</odePageId>
+          <odeBlockId>block-1778404845096-z94j9cdsq</odeBlockId>
+          <odeIdeviceId>idevice-1778404845092-hyexxaj2c</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p><strong>Instrucciones de la actividad</strong><br />Campaña digital de sensibilización ambiental con Canva<br />En esta actividad vais a crear una campaña digital de sensibilización ambiental utilizando la herramienta Canva. El objetivo es concienciar sobre los impactos de las actividades humanas en Andalucía y promover hábitos sostenibles.</p>
+<p>¿Qué tenéis que hacer?<br />Debéis diseñar uno de los siguientes formatos en Canva:</p>
+<p>Una infografía<br />Un cartel digital<br />Una presentación<br /></p>
+<p>El trabajo debe incluir:</p>
+<p>Un problema ambiental relacionado con Andalucía<br />Ejemplos: contaminación, sequía, incendios forestales, pérdida de biodiversidad, residuos, cambio climático, etc.<br /></p>
+<p>Explicación del impacto humano<br />Debéis explicar cómo las actividades humanas afectan al medio ambiente.<br /></p>
+<p>Propuestas de mejora y hábitos sostenibles<br />Incluid acciones que ayuden a reducir el problema y fomenten el cuidado del entorno.<br /></p>
+<p>Imágenes y diseño visual<br />El contenido debe ser claro, ordenado y atractivo visualmente.<br /></p>
+<p>Fuentes de información fiables<br />Utilizad páginas web, noticias o recursos científicos adecuados y veraces.</p>
+<p>Entrega<br />El trabajo se entregará en formato digital mediante el aula virtual/plataforma indicada por el profesor.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778404845092-hyexxaj2c%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Contenido%20cient%EDfico%20y%20rigor%22%2C%22Propuestas%20de%20sostenibilidad%20y%20sensibilizaci%F3n%22%2C%22Dise%F1o%20y%20uso%20de%20Canva%22%2C%22Comunicaci%F3n%20y%20competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Notable%22%2C%22Aceptable%20%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Explica%20correctamente%20los%20impactos%20ambientales%20y%20los%20relaciona%20claramente%20con%20Andaluc%EDa%20usando%20informaci%F3n%20rigurosa.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Explica%20los%20impactos%20ambientales%20con%20algunos%20detalles%20del%20contexto%20andaluz.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20b%E1sica%20o%20presenta%20algunas%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20incorrecta%2C%20incompleta%20o%20no%20se%20relaciona%20con%20Andaluc%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Presenta%20propuestas%20claras%2C%20creativas%20y%20realistas%20para%20mejorar%20los%20problemas%20ambientales.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20propuestas%20adecuadas%20y%20comprensibles.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Las%20propuestas%20son%20poco%20claras%20o%20poco%20desarrolladas.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20incluye%20propuestas%20%FAtiles%20o%20relacionadas%20con%20la%20tem%E1tica.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20dise%F1o%20es%20atractivo%2C%20ordenado%20y%20creativo.%20Usa%20muy%20bien%20las%20herramientas%20de%20Canva.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20dise%F1o%20es%20claro%20y%20adecuado.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20dise%F1o%20presenta%20desorden%20o%20escasa%20variedad%20visual.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20dise%F1o%20dificulta%20la%20comprensi%F3n%20o%20muestra%20muy%20poco%20uso%20de%20Canva.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20mensaje%20es%20claro%2C%20utiliza%20lenguaje%20adecuado%20y%20fuentes%20fiables%20bien%20seleccionadas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20y%20utiliza%20informaci%F3n%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20mensaje%20presenta%20confusi%F3n%20o%20pocas%20fuentes%20fiables.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20mensaje%20no%20se%20entiende%20bien%20o%20no%20utiliza%20informaci%F3n%20fiable.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Contenido%20cient%EDfico%20y%20rigor%22%2C%22Propuestas%20de%20sostenibilidad%20y%20sensibilizaci%F3n%22%2C%22Dise%F1o%20y%20uso%20de%20Canva%22%2C%22Comunicaci%F3n%20y%20competencia%20digital%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Notable%22%2C%22Aceptable%20%22%2C%22Necesita%20mejorar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Explica%20correctamente%20los%20impactos%20ambientales%20y%20los%20relaciona%20claramente%20con%20Andaluc%EDa%20usando%20informaci%F3n%20rigurosa.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Explica%20los%20impactos%20ambientales%20con%20algunos%20detalles%20del%20contexto%20andaluz.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20b%E1sica%20o%20presenta%20algunas%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20informaci%F3n%20es%20incorrecta%2C%20incompleta%20o%20no%20se%20relaciona%20con%20Andaluc%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Presenta%20propuestas%20claras%2C%20creativas%20y%20realistas%20para%20mejorar%20los%20problemas%20ambientales.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20propuestas%20adecuadas%20y%20comprensibles.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Las%20propuestas%20son%20poco%20claras%20o%20poco%20desarrolladas.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20incluye%20propuestas%20%FAtiles%20o%20relacionadas%20con%20la%20tem%E1tica.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20dise%F1o%20es%20atractivo%2C%20ordenado%20y%20creativo.%20Usa%20muy%20bien%20las%20herramientas%20de%20Canva.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20dise%F1o%20es%20claro%20y%20adecuado.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20dise%F1o%20presenta%20desorden%20o%20escasa%20variedad%20visual.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20dise%F1o%20dificulta%20la%20comprensi%F3n%20o%20muestra%20muy%20poco%20uso%20de%20Canva.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20mensaje%20es%20claro%2C%20utiliza%20lenguaje%20adecuado%20y%20fuentes%20fiables%20bien%20seleccionadas.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20mensaje%20se%20entiende%20y%20utiliza%20informaci%F3n%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20mensaje%20presenta%20confusi%F3n%20o%20pocas%20fuentes%20fiables.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20mensaje%20no%20se%20entiende%20bien%20o%20no%20utiliza%20informaci%F3n%20fiable.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3E%3Cstrong%3EInstrucciones%20de%20la%20actividad%3C/strong%3E%3Cbr%20/%3ECampa%F1a%20digital%20de%20sensibilizaci%F3n%20ambiental%20con%20Canva%3Cbr%20/%3EEn%20esta%20actividad%20vais%20a%20crear%20una%20campa%F1a%20digital%20de%20sensibilizaci%F3n%20ambiental%20utilizando%20la%20herramienta%20Canva.%20El%20objetivo%20es%20concienciar%20sobre%20los%20impactos%20de%20las%20actividades%20humanas%20en%20Andaluc%EDa%20y%20promover%20h%E1bitos%20sostenibles.%3C/p%3E%5Cn%3Cp%3E%BFQu%E9%20ten%E9is%20que%20hacer%3F%3Cbr%20/%3EDeb%E9is%20dise%F1ar%20uno%20de%20los%20siguientes%20formatos%20en%20Canva%3A%3C/p%3E%5Cn%3Cp%3EUna%20infograf%EDa%3Cbr%20/%3EUn%20cartel%20digital%3Cbr%20/%3EUna%20presentaci%F3n%3Cbr%20/%3E%3C/p%3E%5Cn%3Cp%3EEl%20trabajo%20debe%20incluir%3A%3C/p%3E%5Cn%3Cp%3EUn%20problema%20ambiental%20relacionado%20con%20Andaluc%EDa%3Cbr%20/%3EEjemplos%3A%20contaminaci%F3n%2C%20sequ%EDa%2C%20incendios%20forestales%2C%20p%E9rdida%20de%20biodiversidad%2C%20residuos%2C%20cambio%20clim%E1tico%2C%20etc.%3Cbr%20/%3E%3C/p%3E%5Cn%3Cp%3EExplicaci%F3n%20del%20impacto%20humano%3Cbr%20/%3EDeb%E9is%20explicar%20c%F3mo%20las%20actividades%20humanas%20afectan%20al%20medio%20ambiente.%3Cbr%20/%3E%3C/p%3E%5Cn%3Cp%3EPropuestas%20de%20mejora%20y%20h%E1bitos%20sostenibles%3Cbr%20/%3EIncluid%20acciones%20que%20ayuden%20a%20reducir%20el%20problema%20y%20fomenten%20el%20cuidado%20del%20entorno.%3Cbr%20/%3E%3C/p%3E%5Cn%3Cp%3EIm%E1genes%20y%20dise%F1o%20visual%3Cbr%20/%3EEl%20contenido%20debe%20ser%20claro%2C%20ordenado%20y%20atractivo%20visualmente.%3Cbr%20/%3E%3C/p%3E%5Cn%3Cp%3EFuentes%20de%20informaci%F3n%20fiables%3Cbr%20/%3EUtilizad%20p%E1ginas%20web%2C%20noticias%20o%20recursos%20cient%EDficos%20adecuados%20y%20veraces.%3C/p%3E%5Cn%3Cp%3EEntrega%3Cbr%20/%3EEl%20trabajo%20se%20entregar%E1%20en%20formato%20digital%20mediante%20el%20aula%20virtual/plataforma%20indicada%20por%20el%20profesor.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Arturo%20G%E1lvez%20Gonzalez%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Arturo Gálvez Gonzalez</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3E%3Cstrong%3EInstrucciones%20de%20la%20actividad%3C/strong%3E%3Cbr%20/%3ECampa%F1a%20digital%20de%20sensibilizaci%F3n%20ambiental%20con%20Canva%3Cbr%20/%3EEn%20esta%20actividad%20vais%20a%20crear%20una%20campa%F1a%20digital%20de%20sensibilizaci%F3n%20ambiental%20utilizando%20la%20herramienta%20Canva.%20El%20objetivo%20es%20concienciar%20sobre%20los%20impactos%20de%20las%20actividades%20humanas%20en%20Andaluc%EDa%20y%20promover%20h%E1bitos%20sostenibles.%3C/p%3E%0A%3Cp%3E%BFQu%E9%20ten%E9is%20que%20hacer%3F%3Cbr%20/%3EDeb%E9is%20dise%F1ar%20uno%20de%20los%20siguientes%20formatos%20en%20Canva%3A%3C/p%3E%0A%3Cp%3EUna%20infograf%EDa%3Cbr%20/%3EUn%20cartel%20digital%3Cbr%20/%3EUna%20presentaci%F3n%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3EEl%20trabajo%20debe%20incluir%3A%3C/p%3E%0A%3Cp%3EUn%20problema%20ambiental%20relacionado%20con%20Andaluc%EDa%3Cbr%20/%3EEjemplos%3A%20contaminaci%F3n%2C%20sequ%EDa%2C%20incendios%20forestales%2C%20p%E9rdida%20de%20biodiversidad%2C%20residuos%2C%20cambio%20clim%E1tico%2C%20etc.%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3EExplicaci%F3n%20del%20impacto%20humano%3Cbr%20/%3EDeb%E9is%20explicar%20c%F3mo%20las%20actividades%20humanas%20afectan%20al%20medio%20ambiente.%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3EPropuestas%20de%20mejora%20y%20h%E1bitos%20sostenibles%3Cbr%20/%3EIncluid%20acciones%20que%20ayuden%20a%20reducir%20el%20problema%20y%20fomenten%20el%20cuidado%20del%20entorno.%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3EIm%E1genes%20y%20dise%F1o%20visual%3Cbr%20/%3EEl%20contenido%20debe%20ser%20claro%2C%20ordenado%20y%20atractivo%20visualmente.%3Cbr%20/%3E%3C/p%3E%0A%3Cp%3EFuentes%20de%20informaci%F3n%20fiables%3Cbr%20/%3EUtilizad%20p%E1ginas%20web%2C%20noticias%20o%20recursos%20cient%EDficos%20adecuados%20y%20veraces.%3C/p%3E%0A%3Cp%3EEntrega%3Cbr%20/%3EEl%20trabajo%20se%20entregar%E1%20en%20formato%20digital%20mediante%20el%20aula%20virtual/plataforma%20indicada%20por%20el%20profesor.%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778326869635-2m4klri9j</odePageId>
+  <odeParentPageId>page-1778326538100-4a1tb1zge</odeParentPageId>
+  <pageName>Algunos ejemplos </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Algunos ejemplos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778326869635-2m4klri9j</odePageId>
+      <odeBlockId>block-1778326878601-nzpyr2xt2</odeBlockId>
+      <blockName>Infografía: Mapa sobre el impacto previsto del cambio climático en Europa. Por: Parlamento europeo. E infografía: ¿Por que el cambio climático nos involucra a todos?. Por: Departamento Nacional de Planeación.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778326869635-2m4klri9j</odePageId>
+          <odeBlockId>block-1778326878601-nzpyr2xt2</odeBlockId>
+          <odeIdeviceId>idevice-1778326878599-lsjysyj8o</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778326878599-lsjysyj8o" title="" href="{{context_path}}/content/resources/20180905PHT11959_original.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/20180905PHT11959_original.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778326878599-lsjysyj8o" title="" href="{{context_path}}/content/resources/Infografia_Cambio_climatico_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografia_Cambio_climatico_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778326878599-lsjysyj8o","img_0":{"img":"{{context_path}}/content/resources/20180905PHT11959_original.jpg","thumbnail":"{{context_path}}/content/resources/20180905PHT11959_original.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Infografia_Cambio_climatico_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Infografia_Cambio_climatico_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778407220633-oecim2ia9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778407220633-oecim2ia9</odePageId>
+      <odeBlockId>block-1778407799412-598yno57e</odeBlockId>
+      <blockName>Información general sobre este recurso educativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778407220633-oecim2ia9</odePageId>
+          <odeBlockId>block-1778407799412-598yno57e</odeBlockId>
+          <odeIdeviceId>idevice-1778407799408-6gl0ey7k1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.9449%; height: 442.667px; float: left;">
+<tbody>
+<tr style="height: 56.6667px;">
+<td style="width: 17.8268%; height: 56.6667px;">Título</td>
+<td style="width: 82.1732%; height: 56.6667px;">Problemas ambientales del siglo XXI: Los impactos del ser humano</td>
+</tr>
+<tr style="height: 320.667px;">
+<td style="width: 17.8268%; height: 320.667px;">Descripción</td>
+<td style="width: 82.1732%; height: 320.667px;">
+<p><br /></p>
+<p>Esta situación de aprendizaje está pensada para trabajar con el alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.. A través de ella, el alumnado desarrollará capacidades para identificar y analizar riesgos naturales relacionados con factores humanos, geológicos y socioeconómicos, especialmente los más relevantes en Andalucía. Asimismo, trabajará la resolución de cuestiones de Biología y Geología mediante la búsqueda, selección y análisis crítico de información procedente de diversas fuentes, valorando su fiabilidad y utilizando una correcta citación. Además, reflexionará sobre el impacto de las acciones humanas en el medioambiente y la salud, fomentando actitudes responsables y hábitos sostenibles y saludables.<br /></p>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 17.8268%; height: 32.6667px;">Autoría</td>
+<td style="width: 82.1732%; height: 32.6667px;">
+<p>Arturo Galvez Gonzalez</p>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 17.8268%; height: 32.6667px;">Licencia </td>
+<td style="width: 82.1732%; height: 32.6667px;"><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" title="" rel="noopener">Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778407799408-6gl0ey7k1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.9449%; height: 442.667px; float: left;\">\n<tbody>\n<tr style=\"height: 56.6667px;\">\n<td style=\"width: 17.8268%; height: 56.6667px;\">Título</td>\n<td style=\"width: 82.1732%; height: 56.6667px;\">Problemas ambientales del siglo XXI: Los impactos del ser humano</td>\n</tr>\n<tr style=\"height: 320.667px;\">\n<td style=\"width: 17.8268%; height: 320.667px;\">Descripción</td>\n<td style=\"width: 82.1732%; height: 320.667px;\">\n<p><br /></p>\n<p>Esta situación de aprendizaje está pensada para trabajar con el alumnado de 4º de Educación Secundaria Obligatoria (ESO) en la materia de Biología y Geología.. A través de ella, el alumnado desarrollará capacidades para identificar y analizar riesgos naturales relacionados con factores humanos, geológicos y socioeconómicos, especialmente los más relevantes en Andalucía. Asimismo, trabajará la resolución de cuestiones de Biología y Geología mediante la búsqueda, selección y análisis crítico de información procedente de diversas fuentes, valorando su fiabilidad y utilizando una correcta citación. Además, reflexionará sobre el impacto de las acciones humanas en el medioambiente y la salud, fomentando actitudes responsables y hábitos sostenibles y saludables.<br /></p>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 17.8268%; height: 32.6667px;\">Autoría</td>\n<td style=\"width: 82.1732%; height: 32.6667px;\">\n<p>Arturo Galvez Gonzalez</p>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 17.8268%; height: 32.6667px;\">Licencia </td>\n<td style=\"width: 82.1732%; height: 32.6667px;\"><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" title=\"\" rel=\"noopener\">Creative Commons BY-SA 4.0</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
